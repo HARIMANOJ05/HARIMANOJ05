@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm MANOJ</h1>
+<h1 align="center">Hello , I'm MANOJ</h1>
 <h3 align="center">passionate MLOps enthusiast dedicated to optimizing and automating machine learning workflows. With a background in data science and software engineering, I specialize in bridging the gap between model development and production deployment. My work focuses on creating scalable, efficient, and reliable machine learning systems that deliver real-world impact.</h3>
 
 - I’m currently working on **MLOPS**
